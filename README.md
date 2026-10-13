@@ -1,18 +1,18 @@
 ## Hi, I'm Kasper
 
-I study at Copenhagen Business School (CBS) and finish in summer 2027. I work with technology from a business and consulting angle, and I have hands-on experience building apps with React Native and Expo.
-
-### Selected projects
-
-These are group projects from my studies. Some of the code lives in my teammates' accounts, so I link to it here.
+Welcome! These are some of my projects from CBS.
 
 **[MentorZone](https://github.com/kkamph26/MentorZone)** (original repository by [shadi77777](https://github.com/shadi77777/MentorZone))
 
-A mobile app for booking sports trainers, built with React Native, Expo and Firebase. Users can browse trainers, rate them, chat with them and book a time. The app also has an AI support chat.
+A mobile app where users find and book sports trainers. Built with React Native, Expo and Firebase. Users sign up, pick a sport, compare trainers by price, experience and rating, leave comments, chat with the trainer and book a time in a calendar. Booked times disappear for other users. Anyone can also register as a trainer, and there is an AI support chat.
 
 **[Machine-Learning](https://github.com/MLJonstrup/Machine-Learning)**
 
-Predicting the severity of road traffic accidents with scikit-learn. The project compares logistic regression, decision tree, random forest and k-nearest neighbors on national road casualty data from 2023, with a focus on class imbalance. Made for the Applied Machine Learning course at CBS in 2025.
+A group project on predicting whether a road traffic accident is severe. It uses about 100,000 records from 2023 and compares logistic regression, decision tree, random forest and k-nearest neighbors in scikit-learn. Because severe accidents are rare, the models are judged on recall and PR-AUC instead of plain accuracy. Made for the Applied Machine Learning course at CBS in 2025.
+
+**[OO_1_Project](https://github.com/kkamph26/OO_1_Project)**
+
+An earlier version of the trainer app idea, with a booking prototype, a map that shows the user's location and a rating feature.
 
 **[Medicin](https://github.com/shadi77777/Medicin)**
 
