@@ -17,3 +17,7 @@ A group project for a CBS course where we built a forum as a complete web applic
 **[Medicin](https://github.com/shadi77777/Medicin)** (original repository by [shadi77777](https://github.com/shadi77777))
 
 A group project that is a web prototype called Medicin Spild Rapport (Medicine Waste Report), made for a hospital pharmacy setting. You pick a hospital, a department and a section, and the page shows for each medicine how much was bought, used, discarded and kept in stock. From this it works out how much was wasted and what the waste cost in DKK. It is built with plain HTML, CSS and JavaScript and uses sample data.
+
+**[Bias-in-Bios](https://github.com/kkamph26/Bias-in-Bios)**
+
+A CBS project on gender bias in machine learning, done in Google Colab. Using the public Bias in Bios dataset of short online biographies, we predict a person's occupation from the text and test whether men and women are treated differently. We compare a simple bag-of-words model with an LLM and look at accuracy, true-positive rate by gender, and what balancing the data does.
