@@ -1,6 +1,6 @@
 ## Hi, I'm Kasper
 
-Welcome! These are some of my projects from CBS.
+These are some of my projects
 
 ### ML projects
 
