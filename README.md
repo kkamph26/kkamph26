@@ -2,7 +2,7 @@
 
 Welcome! These are some of my projects from CBS.
 
-# ML projects
+### ML projects
 
 **[Bias-in-Bios](https://github.com/kkamph26/Bias-in-Bios)**
 
@@ -12,13 +12,13 @@ A CBS project on gender bias in machine learning, done in Google Colab. Using th
 
 A group project on predicting whether a road traffic accident is severe. It uses about 100,000 records from 2023 and compares logistic regression, decision tree, random forest and k-nearest neighbors in scikit-learn. Because severe accidents are rare, the models are judged on recall and PR-AUC instead of plain accuracy. Made for the Applied Machine Learning course at CBS in 2025.
 
-# Mobile project
+### Mobile project
 
 **[MentorZone](https://github.com/kkamph26/MentorZone)** (original repository by [shadi77777](https://github.com/shadi77777/MentorZone))
 
 A mobile app where users find and book sports trainers. Built with React Native, Expo and Firebase. Users sign up, pick a sport, compare trainers by price, experience and rating, leave comments, chat with the trainer and book a time in a calendar. Booked times disappear for other users. Anyone can also register as a trainer, and there is an AI support chat.
 
-# Web apps
+### Web apps
 
 **[JoeForum](https://github.com/MLJonstrup/JoeForum)** (original repository by [MLJonstrup](https://github.com/MLJonstrup))
 
